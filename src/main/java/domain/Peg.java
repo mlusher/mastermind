@@ -8,4 +8,5 @@ public enum Peg {
     YELLOW,
     ORANGE,
     GREEN
+
 }
